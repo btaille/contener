@@ -66,13 +66,14 @@ python test_ood.py -ds $dataset -ood_ds $ood_dataset -emb $embedder -enc $encode
 ## Reference
 If you find any of this work useful, please cite our paper as follows:
 ```
-@misc{taille2020contextualized,
-    title={Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization},
-    author={Bruno Taillé and Vincent Guigue and Patrick Gallinari},
-    year={2020},
-    eprint={2001.08053},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@InProceedings{taille2020contextualized,
+author="Taill{\'e}, Bruno and Guigue, Vincent and Gallinari, Patrick",
+title="Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization",
+booktitle="Advances in Information Retrieval",
+year="2020",
+publisher="Springer International Publishing",
+pages="383--391",
+isbn="978-3-030-45442-5"
 }
 ```
 
