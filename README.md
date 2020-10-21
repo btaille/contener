@@ -1,7 +1,8 @@
 ContENER
 ====
 
-["Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization", ECIR 2020](https://arxiv.org/pdf/2001.08053.pdf)  
+Code for ["Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization"](https://arxiv.org/pdf/2001.08053.pdf), accepted as a short paper at ECIR 2020. ([Link to the video presentation](https://www.youtube.com/watch?v=J1XsbPwB-Wg&ab_channel=ECIR2020))
+
 This code enables to compare the impact of BERT, ELMo, Flair and GloVe representations on NER generalization both to unseen mentions and out-of-domain.  
 
 Test entities are separated in 3 categories:
